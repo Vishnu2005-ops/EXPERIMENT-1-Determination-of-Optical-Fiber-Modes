@@ -60,4 +60,8 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![WhatsApp Image 2025-11-21 at 20 55 43_b2ac040c](https://github.com/user-attachments/assets/b70eb46e-9d2c-4ef6-9a2f-a4aa2bf00878)
+
 ## Result
+Thus the determination of optical fiber mode is studied and observed the lower order LP modes
+
